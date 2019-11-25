@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">M08Des</string>
+    <string name="activity3">Activity3</string>
+    <string name="activity2">Activity2</string>
+    <string name="pc">pc</string>
+    <string name="insert">Insert Data</string>
+    <string name="color">[Color]</string>
+    <string name="crear_tabla">Create Table</string>
+    <string name="insertar_datos">Insert Data</string>
+    <string name="consultar_datos">Check Data</string>
+    <string name="volver">Return</string>
+    <string name="iniciar_m_sica">Start Music</string>
+    <string name="servicio">Service</string>
+    <string name="volver3">RETURN</string>
+    <string name="detener_servicio">Stop Service</string>
+    <string name="detener_musica">Stop Music</string>
+    <string name="bloquear">Block</string>
+    <string name="flor">Flower</string>
+</resources>

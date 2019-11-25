@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M08Des</string>
+    <string name="activity3">Actividad3</string>
+    <string name="activity2">Actividad2</string>
+    <string name="pc">pc</string>
+    <string name="insert">Insertar Datos</string>
+    <string name="color">[Color]</string>
+    <string name="crear_tabla">Crear Tabla</string>
+    <string name="insertar_datos">Insertar Datos</string>
+    <string name="consultar_datos">Comprobar Datos</string>
+    <string name="volver">Volver</string>
+    <string name="iniciar_m_sica">Iniciar Música</string>
+    <string name="servicio">Servicio</string>
+    <string name="volver3">VOLVER</string>
+    <string name="detener_servicio">Detener Servicio</string>
+    <string name="detener_musica">Detener Música</string>
+    <string name="bloquear">Bloquear</string>
+    <string name="flor">Flor</string>
+</resources>
